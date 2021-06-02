@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '2f0c47a2e47a43328e4eab1738d5c0f4',
+  rootNotionPageId: '605ebe1ee01c4d83b2b273e6f3fed27d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '忒修斯之船',
-  domain: 'https://www.notion.so/yehai1984/2f0c47a2e47a43328e4eab1738d5c0f4?v=43cf7d7dfc2f48c48ce275c67aa79bc1',
+  name: '求剑录',
+  domain: 'https://www.notion.so/yehai1984/605ebe1ee01c4d83b2b273e6f3fed27d',
   author: '夜骸',
 
   // open graph metadata (optional)
