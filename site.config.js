@@ -12,7 +12,7 @@ module.exports = {
   author: '夜骸',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '在岁月的洪流里刻舟求剑',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
