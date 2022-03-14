@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '求剑录',
-  domain: 'https://www.notion.so/yehai1984/605ebe1ee01c4d83b2b273e6f3fed27d',
+  name: '昨日之岛',
+  domain: 'https://yehai1984.notion.site/605ebe1ee01c4d83b2b273e6f3fed27d',
   author: '夜骸',
 
   // open graph metadata (optional)
